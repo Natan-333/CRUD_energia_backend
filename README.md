@@ -3,7 +3,6 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Mysql](https://www.mysql.com/)
-- [Typescript](https://www.typescriptlang.org/)
 - [Javascript](https://www.javascript.com/)
 
 ---
@@ -32,5 +31,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ---
 
 ## Pronto !!!
-O aruivo jason estará disponível no seu browser pelo endereço http://localhost:8800.
+O arquivo Json estará disponível no seu browser pelo endereço http://localhost:8800.
 
